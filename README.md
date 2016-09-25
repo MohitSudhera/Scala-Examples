@@ -1,1 +1,1 @@
-This repository contains all the basic examples of Scala for beginners
+Its all about getting started with Scala
